@@ -1,20 +1,26 @@
 <template>
-  <div id="app">
+<div id="app">
     <Header/>
-    <div>
-      <LisProduct/>
-    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-8">  <LisProduct/></div>
+            <div class="col-3"> <MyCart/></div>
+        </div>      
+       </div>
   </div>
 </template>
 
 <script>
 import Header from './components/MyHeader.vue'
 import LisProduct from './components/LisProduct.vue'
+import MyCart from './components/MyCart.vue'
+
 export default {
   name: 'App',
   components:{
     Header,
-    LisProduct
+    LisProduct,
+    MyCart,
   }
  
 }
