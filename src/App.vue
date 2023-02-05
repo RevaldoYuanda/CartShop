@@ -1,16 +1,20 @@
 <template>
   <div id="app">
     <Header/>
+    <div>
+      <LisProduct/>
+    </div>
   </div>
 </template>
 
 <script>
 import Header from './components/MyHeader.vue'
-
+import LisProduct from './components/LisProduct.vue'
 export default {
   name: 'App',
   components:{
     Header,
+    LisProduct
   }
  
 }

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nama": "Apple iPhone 14 Pro Max",
+        "harga": "20.375.000",
+        "gambar": "https://p-id.ipricegroup.com/uploaded_4edfe244d9a7695917e405d4438e2ce2a5c9680b.jpg"
+    },
+    {
+        "id": 2,
+        "nama": "Apple iPhone 13 Pro Max",
+        "harga": "15.375.000",
+        "gambar": "https://p-id.ipricegroup.com/uploaded_c321dc3a07fc96c5df74a51ccf97e5ba.jpg"
+    },
+    {
+        "id": 3,
+        "nama": "Samsung Galaxy A13",
+        "harga": "10.000.000",
+        "gambar": "https://p-id.ipricegroup.com/uploaded_e78d56980f53e1cadc2cf1bd5f8485bd.jpg"
+    },
+    {
+        "id": 4,
+        "nama": "Apple iPhone 14 Pro",
+        "harga": "14.999.000",
+        "gambar": "https://p-id.ipricegroup.com/uploaded_fc1e7879fd10940ae58def615aa3dd97009b52e2.jpg"
+    },
+    {
+        "id": 5,
+        "nama": "Apple iPhone 13",
+        "harga": "11.375.000",
+        "gambar": "https://p-id.ipricegroup.com/uploaded_32914316451bc6e09f4d4110748f95a5.jpg"
+    },
+    {
+        "id": 6,
+        "nama": "Vivo Y22",
+        "harga": "12.700.000",
+        "gambar": "https://p-id.ipricegroup.com/uploaded_ddf8fa5c49405f3d9edface0787632ae212c0b09.jpg"
+    }
+]
